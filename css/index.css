@@ -171,7 +171,7 @@ input:checked + .slider:before {
 
 .ohraniceni {
   padding: 30px 30px;
-  margin: 30px;
+  margin: 10px;
   /* border: 1px solid red; */
   /* max-width: 1000px;  */
   display: flex;
@@ -366,4 +366,13 @@ input:checked + .slider:before {
 }
 .textThaks{
   color: #fff;
+}
+
+.website{
+  color: #fff;
+  text-decoration: none;
+  background: #fff6;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 30px;
 }

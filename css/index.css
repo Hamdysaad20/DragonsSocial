@@ -340,3 +340,30 @@ input:checked + .slider:before {
 .wrapper .button:nth-child(6) span {
     color: var(--github);
 }
+
+
+
+
+.absolute{
+  position: absolute;
+ padding: 10px; 
+ margin: 10px;
+ background: var(--b-background);
+ border-radius: 30px;
+ opacity: 0.5;
+ text-align: center;
+ text-transform: capitalize;
+  font-size: 12px;
+  font-weight: 500; 
+  color: var(--b-accent);
+  left: 0;
+  bottom: 0;
+  cursor: pointer;
+}
+
+.credits{
+  color: #000000;
+}
+.textThaks{
+  color: #fff;
+}
